@@ -1,0 +1,23 @@
+{
+  "name": "laravel-http-log-collect",
+  "description": "a middleware for collect laravel http request and response  contents",
+  "keywords": [
+    "laravel",
+    "lumen",
+    "middleware",
+    "log",
+    "http"
+  ],
+  "license": "MIT",
+  "version":"1.0.0",
+  "type": "project",
+  "require": {
+    "php": ">=7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\":"src/"
+    }
+  }
+
+}
