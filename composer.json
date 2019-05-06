@@ -1,5 +1,5 @@
 {
-  "name": "laravel_http_log_collect",
+  "name": "laravel_http_log",
   "description": "a middleware for collect laravel http request and response  contents",
   "keywords": [
     "laravel",
@@ -9,7 +9,7 @@
     "http"
   ],
   "license": "MIT",
-  "version":"1.0.0",
+  "version":"1.0.2",
   "type": "project",
   "require": {
     "php": ">=7.1.3"
