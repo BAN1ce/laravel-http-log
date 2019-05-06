@@ -1,5 +1,5 @@
 {
-  "name": "laravel-http-log-collect",
+  "name": "laravel_http_log_collect",
   "description": "a middleware for collect laravel http request and response  contents",
   "keywords": [
     "laravel",
