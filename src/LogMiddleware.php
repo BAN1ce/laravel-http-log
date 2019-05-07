@@ -6,7 +6,8 @@
  * Time: 下午8:59
  */
 
-namespace App\Http\Middleware;
+namespace Http\Log\Src;
+
 
 use Closure;
 use Illuminate\Http\Request;
